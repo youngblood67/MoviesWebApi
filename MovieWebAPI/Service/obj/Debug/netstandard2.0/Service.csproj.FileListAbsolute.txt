@@ -1,0 +1,13 @@
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Service.deps.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Service.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Service.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Model.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Model.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.pdb

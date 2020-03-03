@@ -1,0 +1,271 @@
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.csprojAssemblyReference.cache
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MovieWebAPI.StaticWebAssets.Manifest.cache
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MovieWebAPI.StaticWebAssets.xml
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.AssemblyInfoInputs.cache
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.AssemblyInfo.cs
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.RazorTargetAssemblyInfo.cache
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.exe
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.csproj.CopyComplete
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.deps.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.runtimeconfig.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.runtimeconfig.dev.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.pdb
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.pdb
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Model.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Repository.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Model.pdb
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.exe
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.deps.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.runtimeconfig.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.runtimeconfig.dev.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MovieWebAPI.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Model.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Repository.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Model.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.csprojAssemblyReference.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MovieWebAPI.StaticWebAssets.Manifest.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\MovieWebAPI.StaticWebAssets.xml
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.AssemblyInfoInputs.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.AssemblyInfo.cs
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.RazorTargetAssemblyInfo.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.csproj.CopyComplete
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\obj\Debug\netcoreapp3.1\MovieWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Service.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\MovieWebAPI\bin\Debug\netcoreapp3.1\Service.pdb

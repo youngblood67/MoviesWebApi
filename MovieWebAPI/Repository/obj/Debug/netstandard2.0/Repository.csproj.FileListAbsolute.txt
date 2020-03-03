@@ -1,0 +1,22 @@
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.pdb
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Model.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Model.pdb
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.dll
+E:\NewDotNetCore\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Model.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Model.pdb
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.pdb
