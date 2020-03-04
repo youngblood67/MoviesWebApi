@@ -11,3 +11,16 @@ D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.Asse
 D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
 D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.dll
 D:\C#\.Net Core\NFP121\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Service.deps.json
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Service.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Service.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Model.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Repository.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Model.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\bin\Debug\netstandard2.0\Repository.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Service\obj\Debug\netstandard2.0\Service.pdb

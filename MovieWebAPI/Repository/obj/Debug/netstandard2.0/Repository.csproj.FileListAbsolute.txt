@@ -20,3 +20,14 @@ D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repositor
 D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
 D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.dll
 D:\C#\.Net Core\NFP121\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Repository.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Model.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\bin\Debug\netstandard2.0\Model.pdb
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\GIT\MoviesWebApi\MovieWebAPI\Repository\obj\Debug\netstandard2.0\Repository.pdb

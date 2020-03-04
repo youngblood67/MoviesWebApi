@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,16 +24,12 @@ namespace MovieWebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //var cn = Configuration.GetConnectionString("Dev");
-            //Pour injecter la Configuration 
-            //services.AddSingleton(_ => Configuration);
+            var connectionString = Configuration.GetSection("ConnectionString").GetSection("dev").Value; //
 
             services.AddControllers();      
             services.AddScoped<IMovieRepository, MovieRepository>();
             services.AddScoped<IMovieService, MovieService>();
-            services.AddScoped<IUserRepository, UserRepository>();
-            services.AddScoped<IViewingRepository, ViewingRepository>();
-            services.AddDbContext<MovieDbContext>();//connectioinString
+            services.AddDbContext<MovieDbContext>(options => options.UseMySql(connectionString,b => b.MigrationsAssembly("MovieWebAPI")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

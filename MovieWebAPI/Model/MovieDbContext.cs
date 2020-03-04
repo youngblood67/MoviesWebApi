@@ -7,8 +7,9 @@ namespace Model
     public class MovieDbContext : DbContext
     {
         public virtual DbSet<Movie> Movies { get; set; }
-        public virtual DbSet<User> Users { get; set; }
-        public virtual DbSet<Viewing> Viewings { get; set; }
+        public virtual DbSet<Comment> Comments { get; set; }
+        public virtual DbSet<MovieActor> MovieActors { get; set; }
+        public virtual DbSet<MovieActor> Persons { get; set; }
 
         private const string _connectionString = @"
                 server=localhost;
@@ -17,6 +18,11 @@ namespace Model
                 uid=dev;
                 password=dev
         ";
+
+        public MovieDbContext(DbContextOptions<MovieDbContext> options) : base(options)
+        {
+
+        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
